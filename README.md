@@ -22,7 +22,7 @@ To unintall the extension run `Uninstall.bat`.
 
 ## Screenshots
 
-![Extension](http://s30.postimg.org/ducgyld29/test.png)
+![Extension](https://raw.github.com/daniellindemann/SharePointWebDavShellExtension/master/Screenshots/ContextMenu.png)
 
 ## Version History
 
