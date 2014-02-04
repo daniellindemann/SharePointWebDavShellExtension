@@ -6,13 +6,13 @@ I made this tool cause I work a lot with the Windows Explorer since SharePoint h
 
 With this Windows Shell Extension you can do file operations with a click :). It extends the Windows Explorer context menu on a WebDav mapped network drive.
 
-This version is without logging. Logging will be a part of the next release. Plans for features in the next releases are icon overlays, working dialog for long running operations, better user information dialogs, checkin dialog ... and more operations.
+This version is without logging. Logging will be a part of the next release. My plans for features in the next releases are icon overlays, working dialog for long running operations, better user information dialogs, checkin dialog ... and more operations.
 
 Have fun.
 
 ## Download
 
-- v0.1 - [x64](http://www.google.de "SharePoint WebDav Shell Extension x64")
+- v0.1 - [x64](https://github.com/daniellindemann/SharePointWebDavShellExtension/raw/master/Releases/SharePointWebDavShellExtension_2013_v0.1_x64.zip "SharePoint WebDav Shell Extension x64")
 
 ## Installation
 
@@ -22,7 +22,11 @@ To unintall the extension run `Uninstall.bat`.
 
 ## Screenshots
 
+![Extension](https://raw.github.com/daniellindemann/SharePointWebDavShellExtension/master/Screenshots/install.png)
+
 ![Extension](https://raw.github.com/daniellindemann/SharePointWebDavShellExtension/master/Screenshots/ContextMenu.png)
+
+![Extension](https://raw.github.com/daniellindemann/SharePointWebDavShellExtension/master/Screenshots/checkoutError.png)
 
 ## Version History
 
