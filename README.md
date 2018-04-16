@@ -1,5 +1,7 @@
 # SharePoint WebDav Shell Extension
 
+## Note: This project has been discontinued
+
 This is the first version of my SharePoint WebDav Windows Shell Extension, so it could include some bugs :).
 
 I made this tool cause I work a lot with the Windows Explorer since SharePoint has WebDav support, but everytime I need to change a file I had to open the file location in Internet Explorer or SharePoint Designer. That's a slow way to check out and check in files.
